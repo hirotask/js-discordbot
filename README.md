@@ -8,4 +8,5 @@ docker-compose run --rm node sh -c "npm install -g create-react-app && create-re
 
 Create Discord Apps
 ```
+docker-compose run --rm node npm install -g discord.js
 ```
